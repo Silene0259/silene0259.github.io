@@ -67,10 +67,10 @@ Interpret it.
 > **Description:** A date to remember. 2059 days since X's passing.
 > Best viewed on TikTok
 
-![remedy1](imgs/02122024/remedy1.jpeg)
-![remedy2](imgs/02122024/remedy2.jpeg)
-![remedy3](imgs/02122024/remedy3.jpeg)
-![remedy4](imgs/02122024/remedy4.jpeg)
+![remedy1](imgs/02122024/rem1.jpeg)
+![remedy2](imgs/02122024/rem2.jpeg)
+![remedy3](imgs/02122024/rem3.jpeg)
+![remedy4](imgs/02122024/rem4.jpeg)
 
 
 ## Oct 2017 - A Real Life Experience
